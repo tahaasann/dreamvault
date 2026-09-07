@@ -2597,3 +2597,4 @@ Bu roadmap artık **“ne öğreneceğini”** belirliyor. Bir sonraki katmanda 
 şeklinde **48 haftalık gerçek bir müfredat** haline getirmek.
 
 Bence artık tam olarak bunu yapmak gerekiyor; çünkü o noktada elinde bir “roadmap” değil, **uygulanabilir bir 1 yıllık Technical Founder eğitim programı** olur.
+[[001-learn-logic]]

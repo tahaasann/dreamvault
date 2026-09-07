@@ -110,3 +110,4 @@ Bu [podcast transkriptinde]([https://www.youtube.com/watch?v=MGxcosNuC8k](https:
 4. **Alpha GPC (600–900 mg):** Asetilkolini artırarak derin odaklanma sağlar; yanında TMAO riskini dengelemek için sarımsak özü kapsülüyle birlikte.
 5. **Kreatin Monohidrat (5–10 g/gün):** Kas gücünün yanı sıra özellikle stresli veya uykusuz günlerde bilişsel performansı ve beyin enerjisini korumak için.
 
+[[2-kritik-bilgiler]]

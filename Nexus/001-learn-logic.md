@@ -950,3 +950,5 @@ ve:
 Bu beşini birlikte geliştirdiğinde, sadece “işe girmeye çalışan bilgisayar mühendisi” olmaktan çıkıp **tek başına ürün çıkarabilen teknik kurucu** profiline doğru ilerlersin.
 
 Ve bence senin için bir sonraki mantıklı adım artık genel bir konu listesi çıkarmak değil; **bu ağacı 6–12 aylık somut bir “Technical Founder Mastery Roadmap”e çevirmek**: hangi sırayla öğreneceğin, her konuyu hangi gerçek projede uygulayacağın, hangi noktada LeetCode çözeceğin ve hangi projeyi CV/GitHub/gerçek startup'a dönüştüreceğin.
+
+[[002-learn-roadmap]]

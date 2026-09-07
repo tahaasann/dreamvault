@@ -1283,3 +1283,5 @@ Ve ancak bundan sonra:
 diye soracağız.
 
 Bence senin için **en değerli tarafı da tam olarak bu:** Bu proje tutmazsa bile 12 ayın boşa gitmiyor. Çünkü sonunda **backend, frontend, distributed systems, databases, DevOps, AI engineering, security, system design, product, analytics, billing ve gerçek kullanıcılarla çalışma** konularında ciddi bir mühendislik laboratuvarından geçmiş oluyorsun. Tutarsa ise elinde sıradan bir portfolio projesi değil, **AI-native şirketlerin gelecekte ihtiyaç duyacağı bir altyapının ilk versiyonu** bulunuyor.
+
+[[004-final-roadmap]]

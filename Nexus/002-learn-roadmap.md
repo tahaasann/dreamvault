@@ -1079,3 +1079,5 @@ Bu iki yolun kesiştiği yer tam olarak **Technical Founder** profili.
 Üstelik AI çağında bu yaklaşım daha da mantıklı: AI geliştirme işinin kendisini ortadan kaldırmaktan ziyade mevcut mühendislik kapasitesini büyütüyor; dolayısıyla temel mühendislik, doğrulama, mimari ve production disiplinlerini öğrenmek AI kullanan bir mühendisin kaldıraç noktasını oluşturuyor. [Dora](https://dora.dev/research/2025/dora-report/?utm_source=chatgpt.com)
 
 **Bir sonraki adımda bunu daha da somutlaştırabiliriz:** Sana **1. aydan 12. aya kadar haftalık takvim**, her hafta için **konu + ücretsiz/kaliteli kaynak + mini görev + flagship project milestone + LeetCode patternleri + AI kullanım protokolü + ay sonu sınavı** şeklinde gerçek bir müfredat çıkarabiliriz. Bu, artık doğrudan uygulamaya başlayabileceğin “Technical Founder Bootcamp” olur.
+
+[[003-project-idea]]
