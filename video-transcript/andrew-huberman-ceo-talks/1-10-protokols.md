@@ -1,4 +1,4 @@
-Bu [podcast transkriptinde]([https://www.youtube.com/watch?v=MGxcosNuC8k](https://www.youtube.com/watch?v=MGxcosNuC8k)) Dr. Andrew Huberman’ın uzun süredir beklenen kitabı *Protocols* ekseninde paylaştığı, biyolojinizi optimize edecek ve günlük yaşamınızda hemen uygulayabileceğiniz **en kritik ve faydalı 10 protokolü** aşağıda süre aralıklarıyla bulabilirsiniz:
+Bu [podcast](https://www.youtube.com/watch?v=MGxcosNuC8k)  transkriptinde Dr. Andrew Huberman’ın uzun süredir beklenen kitabı *Protocols* ekseninde paylaştığı, biyolojinizi optimize edecek ve günlük yaşamınızda hemen uygulayabileceğiniz **en kritik ve faydalı 10 protokolü** aşağıda süre aralıklarıyla bulabilirsiniz:
 
 ---
 
